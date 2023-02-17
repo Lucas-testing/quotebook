@@ -1,0 +1,36 @@
+[33mcommit 839f45b7f0264e04ccab040d353f613b09797cc5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: bfe10ac 48515cd
+Author: Lucas-testing <125485078+Lucas-testing@users.noreply.github.com>
+Date:   Fri Feb 17 11:53:21 2023 +0200
+
+    Merge branch 'personal_quotes'
+
+[33mcommit bfe10acdac1c51f2cb57283a97403b480f88d04a[m
+Author: Lucas-testing <125485078+Lucas-testing@users.noreply.github.com>
+Date:   Fri Feb 17 11:51:13 2023 +0200
+
+    added quote of happy
+
+[33mcommit 48515cd3d92a7b0f85da2275ba15680d798130c9[m[33m ([m[1;32mpersonal_quotes[m[33m)[m
+Author: Lucas-testing <125485078+Lucas-testing@users.noreply.github.com>
+Date:   Fri Feb 17 11:47:01 2023 +0200
+
+    Added quote
+
+[33mcommit 6664864e578b76624a0434fc513bb41179cf6ed1[m
+Author: Lucas-testing <125485078+Lucas-testing@users.noreply.github.com>
+Date:   Thu Feb 16 21:45:18 2023 +0200
+
+    First commit on personal
+
+[33mcommit c588fbfd59b0d185ebd647fe1c6bb5501c5cae09[m
+Author: Lucas-testing <125485078+Lucas-testing@users.noreply.github.com>
+Date:   Thu Feb 16 21:04:43 2023 +0200
+
+    My second commit
+
+[33mcommit d0f3e8cda55aa45e83fe5cbd6e095adee4c761a0[m
+Author: Lucas-testing <125485078+Lucas-testing@users.noreply.github.com>
+Date:   Thu Feb 16 19:20:19 2023 +0200
+
+    My commit 1
